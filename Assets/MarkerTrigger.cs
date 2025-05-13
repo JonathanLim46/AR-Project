@@ -27,10 +27,9 @@ public class MarkerTrigger : MonoBehaviour
 
     private void OnStatusChanged(ObserverBehaviour behaviour, TargetStatus status)
     {
-        // Marker terlihat
         if ((status.Status == Status.TRACKED || status.Status == Status.EXTENDED_TRACKED)
             && quizManager.quizPanel.activeSelf == false
-            && quizManager.isPanelStatusClose) // <-- tambah ini
+            && quizManager.isPanelStatusClose)
         {
             quizManager.ShowRandomQuiz();
         }

@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="markerARUlar" size="1.000000 1.396505" />
+    <ImageTarget name="markerARSerigala" size="1.000000 1.396505" />
+    <ImageTarget name="markerARRusa" size="1.000000 1.396505" />
+    <ImageTarget name="markerARRubah" size="1.000000 1.396505" />
+    <ImageTarget name="markerARKelinci" size="1.000000 1.396505" />
+    <ImageTarget name="markerARKatak" size="1.000000 1.396505" />
+    <ImageTarget name="markerARIguana" size="1.000000 1.396505" />
+    <ImageTarget name="markerARHarimau" size="1.000000 1.396505" />
+    <ImageTarget name="markerARGuppy" size="1.000000 1.396505" />
+    <ImageTarget name="markerARGazel" size="1.000000 1.396505" />
+    <ImageTarget name="markerARElang" size="1.000000 1.396505" />
+    <ImageTarget name="markerARCitah" size="1.000000 1.396505" />
+    <ImageTarget name="markerARBurungHantu" size="1.000000 1.396505" />
+    <ImageTarget name="markerARBunglon" size="1.000000 1.396505" />
+    <ImageTarget name="markerARBuaya" size="1.000000 1.396505" />
     <ImageTarget name="markerQuiz" size="1.000000 1.396505" />
     <ImageTarget name="markerBebek" size="1.000000 1.544231" />
     <ImageTarget name="markerIguana" size="1.000000 0.518072" />

@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GameScene.unity
     guid: 0367feb7fc66ca94a85a02c872f572ba
+  - enabled: 1
+    path: Assets/Scenes/ARPediaScene.unity
+    guid: c32fccf6eb263634095bf6c3724b15df
+  - enabled: 1
+    path: Assets/Scenes/ARCardScene.unity
+    guid: 3e2a2a21e40090b4a82d053540eb5eaa
   m_configObjects: {}
